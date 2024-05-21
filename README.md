@@ -29,7 +29,7 @@ Active Directory is a product by Microsoft that is for domain network services. 
 
 <h3>Step 1: Create resources</h3>
 
-First step is to create to two Azure virtual machines. If don't know how to create a virtual machine in Azure, please see my tutorial [here](https://github.com/klcarpio/Create-an-Azure-Account-and-Deploy-a-Virtual-Machine).
+First step is to create to two Azure virtual machines. If don't know how to create a virtual machine in Azure, please see my tutorial [here](https://github.com/baker7caleb/create-azure-account).
 
 The first virtual machine is the domain controller (DC-1) which will have Windows Server 2022. A domain controller is the main server computer network that gives access to its domain resources and authenticates users that are connected to it. 
 

@@ -356,7 +356,7 @@ Click on "Unlock Account." You can also right click the user account and "Reset 
 <img src="https://i.imgur.com/HrMlyi7.png" height="80%" width="80%" alt="51"/>
 </p>
 
-Thank you for checking out my Active Directory tutorial! I hope you were able to learn and build some intuition on how to use Active Directory. I would suggest doing this exercise several times in order to build the knowledge and skills in Active Directory. Especially if you are trying to shoot for an IT job, where Active Directory is used heavily. 
+Thank you for checking out my Active Directory tutorial! I hope you were able to learn and build some intuition on how to use Active Directory. I would suggest doing this exercise several times in order to build the knowledge and skills in Active Directory.
 
 <p></p>
 
